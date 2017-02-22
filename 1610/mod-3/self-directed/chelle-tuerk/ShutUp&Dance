@@ -1,0 +1,69 @@
+Project Name & Pitch
+
+Example:
+
+ShutUp&Dance
+
+I am building a small-scale version music app that provides the user with options to find a local venue where a 
+particular artist is going to play at.
+
+Project Status
+
+Uhhh, in process
+
+Example:
+
+I'm able to authorize a use via express node.  I am hitting my API and rendering images now. 
+
+Example:
+
+<img width="1280" alt="screen shot 2017-02-20 at 1 31 57 am" src="https://cloud.githubusercontent.com/assets/19790856/23173067/2f1009c6-f815-11e6-
+9098-daf97ce4597e.png">
+
+<img width="1280" alt="screen shot 2017-02-21 at 12 18 14 am" src="https://cloud.githubusercontent.com/assets/19790856/23173089/3c794596-
+f815-11e6-945f-ab44a7779085.png">
+
+
+Installation and Setup Instructions
+
+Example:
+
+Clone down this repository. You will need node and npm installed globally on your machine.
+
+Installation:
+
+npm install
+
+To Run Test Suite:
+
+npm test
+
+To Start Server:
+
+npm run frontend
+npm run backend
+
+To Visit App:
+
+localhost:8080
+
+Reflection
+
+I'm very interested in landing an internship with Pandora or Spotify...aim high, riiiiight??  I thought it would behoove me to 
+be able to present a project thatk was up their alley.  I have a number of contacts on LinkedIn that work at both companies.
+
+What did you set out to build?
+A monster.  I set out to build a monster.  Realistically, the MVP will be pulling in audio from Spotify's API, authorizing a user,
+authorizing a user's playlist, and mayyyybe looking up venues where sought out artist will be performing..still waiting to 
+hear back from ReverbNation to access their internal API.
+
+Why was this project challenging and therefore a really good learning experience?
+Yes.  Absolutely.  I'm pretty sure I'm way in over my head, tho.
+
+What were some unexpected obstacles?
+Yes.  Many.  The beackend is a beast.  I'm slowlyyy making progress.
+
+What tools did you use to implement this project?
+I using spotify API, potentially ReverbNation's API, potentially GoogleMaps API, express node for the backend.  React Router and
+React-Redux for the front end, and SASS for styling.
+
